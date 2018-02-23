@@ -80,3 +80,9 @@ deploy:
   type: git
   repo: git@github.com:wuyhbzh/wuyhbzh.github.io
   branch: master
+
+admin:
+  username: wuyhbzh
+  password_hash: $2a$10$aM5eGYfnO4G4MdMBOtathuHsp3378vNkrqQ3GH.tgP86xsr6Z4nKK
+  secret: abcdefg1234567
+  deployCommand: C:\Users\Administrator\AppData\Roaming\npm
